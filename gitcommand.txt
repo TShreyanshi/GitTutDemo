@@ -6,7 +6,11 @@
 >git add --a //staging area m saari files poohchana
 >git commit -m "Ur message"
 >git log
->rm -rf.git //get repo delete krdeta h
+>rm -rf .git //get repo delete krdeta h
 >pwd // current directory(LINUX)
 >ls //lists content(LINUX)
 >cd (name of the folder jahan km krna h) // (LINUX)
+>touch error.log // touch s new file bnti h
+>touch .gitignore
+
+>>>>> *.log // to ignore all log file
