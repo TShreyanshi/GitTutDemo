@@ -16,3 +16,6 @@
 >>>>> *.log // to ignore all log file
 >>>>> dir/      // to ignore all directory
 >>>>> /dir/     // to ignore outer directory
+
+
+change 1
